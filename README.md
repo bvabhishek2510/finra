@@ -9,7 +9,7 @@
 
 Validations:
 
-The input files accepts only number and you can enter only 7 or 10 digit phone number.
+The input field accepts only number and you can enter only 7 or 10 digit phone number.
 
 
 Technologies Used:
